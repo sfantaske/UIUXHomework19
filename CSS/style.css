@@ -107,6 +107,15 @@ a {
 }
 
 #btn1 {
-	color: red;
+
+}
+
+.modal {
+    display: none;
+    background-color: aqua;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+
 }
 
