@@ -1,4 +1,4 @@
-console.log("JS init");
+console.log("JS init worked");
 
 
 $("#btn1").on("click", function() {
