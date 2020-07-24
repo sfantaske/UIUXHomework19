@@ -122,9 +122,21 @@ text-align: center;
     margin: 50px
     height: 500px;
     font-size:  36Px;
+        border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
 }
 
-.modalContent img {
+.content img {
+ border-radius: 10px;
+}
+
+.content {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
 
 }
 
